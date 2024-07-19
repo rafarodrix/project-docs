@@ -1,0 +1,21 @@
+{
+  "name": "shadcn-docs-nuxt-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.12.3",
+    "shadcn-docs-nuxt": "latest",
+    "vue": "^3.4.31",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@iconify-json/noto": "^1.1.18"
+  }
+}
