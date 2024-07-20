@@ -1,6 +1,9 @@
 ---
-title: Home
+title: Trilink Software
 navigation: false
+layout: page
+main:
+  fluid: false
 ---
 
 ::hero
@@ -19,12 +22,12 @@ actions:
 ---
 
 #title
-Effortless and Beautiful<br>Docs Template.
+Central de Ajuda SYSPRO ERP
+:br
+:br
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue.<br>Customizable. Compatible. Open Source.
+Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápido e seguro a informações cruciais, facilitando e aprimorando significativamente as operações diárias.
+:br
+Na central de ajuda, você pode navegar por diversos processos e acompanhar artigos detalhados com instruções passo a passo para realizar tarefas específicas. Isso lhe proporciona autonomia na resolução de questões do dia a dia.
 ::
-
-<div class="border rounded-lg shadow-md">
-  <iframe src="/getting-started/introduction" height="700" width="100%" class="rounded-lg" scrolling="no" frameborder="0">
-</div>

@@ -1,8 +1,8 @@
 export default defineAppConfig({
   shadcnDocs: {
     site: {
-      name: 'shadcn-docs-nuxt',
-      description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
+      name: 'Trilink Software',
+      description: 'Syspro ERP é um sistema completo, flexível, que acompanha o crescimento da sua empresa.',
     },
     theme: {
       customizable: true,
@@ -10,7 +10,7 @@ export default defineAppConfig({
       radius: 0.5,
     },
     header: {
-      title: 'shadcn-docs-starter',
+      title: 'Trilink Software',
       showTitle: true,
       darkModeToggle: true,
       logo: {
@@ -18,11 +18,11 @@ export default defineAppConfig({
         dark: '/logo-dark.svg',
       },
       nav: [],
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-        target: '_blank',
-      }],
+      // links: [{
+      //   icon: 'lucide:github',
+      //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+      //   target: '_blank',
+      // }],
     },
     aside: {
       useLevel: true,
@@ -34,27 +34,27 @@ export default defineAppConfig({
     },
     footer: {
       credits: 'Copyright © 2024',
-      links: [{
-        icon: 'lucide:github',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-        target: '_blank',
-      }],
+      // links: [{
+      //   icon: 'lucide:github',
+      //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+      //   target: '_blank',
+      // }],
     },
-    toc: {
-      enable: true,
-      title: 'On This Page',
-      links: [{
-        title: 'Star on GitHub',
-        icon: 'lucide:star',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-        target: '_blank',
-      }, {
-        title: 'Create Issues',
-        icon: 'lucide:circle-dot',
-        to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
-        target: '_blank',
-      }],
-    },
+    // toc: {
+    //   enable: true,
+    //   title: 'On This Page',
+    //   links: [{
+    //     title: 'Star on GitHub',
+    //     icon: 'lucide:star',
+    //     to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
+    //     target: '_blank',
+    //   }, {
+    //     title: 'Create Issues',
+    //     icon: 'lucide:circle-dot',
+    //     to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
+    //     target: '_blank',
+    //   }],
+    // },
     search: {
       enable: true,
       inAside: false,
