@@ -9,12 +9,12 @@ main:
 ::hero
 ---
 announcement:
-  title: 'Release v0.4.1'
+  title: 'Novidades de Versão'
   icon: 'noto:party-popper'
-  to: /getting-started/changelog
+  to: /release
 actions:
-  - name: Get Started
-    to: /getting-started
+  - name: Comece por aqui!
+    to: /primeiros-passos/start
   - name: GitHub
     variant: outline
     to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
@@ -29,5 +29,3 @@ Central de Ajuda SYSPRO ERP
 #description
 Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápido e seguro a informações cruciais, facilitando e aprimorando significativamente as operações diárias.
 :br
-Na central de ajuda, você pode navegar por diversos processos e acompanhar artigos detalhados com instruções passo a passo para realizar tarefas específicas. Isso lhe proporciona autonomia na resolução de questões do dia a dia.
-::
