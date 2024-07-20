@@ -16,6 +16,7 @@
     "vue-router": "^4.4.0"
   },
   "devDependencies": {
+    "@iconify-json/fluent": "^1.1.59",
     "@iconify-json/noto": "^1.1.18"
   }
 }
