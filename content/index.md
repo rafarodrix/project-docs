@@ -3,7 +3,7 @@ title: Trilink Software
 navigation: false
 layout: page
 main:
-  fluid: false
+  fluid: true
 ---
 
 ::hero
@@ -14,7 +14,7 @@ announcement:
   to: /release
 actions:
   - name: Comece por aqui!
-    to: /primeiros-passos/start
+    to: /primeiros-passos/introducao
     leftIcon: 'lucide:rocket'
 ---
 
