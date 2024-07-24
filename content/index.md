@@ -8,10 +8,7 @@ main:
 
 ::hero
 ---
-announcement:
-  title: 'Novidades de Versão'
-  icon: 'noto:party-popper'
-  to: /release
+
 actions:
   - name: Comece por aqui!
     to: /primeiros-passos/introducao
@@ -30,17 +27,33 @@ Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápid
 ::card-group
   ::card
   ---
-  title: Cadastro
-  icon: lucide:user-round-plus
-  to: /docs/cadastro/empresa
+  title: Documentação
+  icon: lucide:book-open
+  to: /docs/documentacao
   ---
    O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
   ::
   ::card
   ---
-  title: Estoque
-  icon: lucide:boxes
-  to: /docs/estoque/departamento
+  title: Dúvidas Frequentes
+  icon: mdi:frequently-asked-questions
+  to: /duvidas-frequentes/duvidas
+  ---
+  O módulo de Estoque gerencia todas as informações relativas ao estoque, incluindo quantidades, localizações e movimentações de produtos.
+  ::
+  ::card
+  ---
+  title: Downloads
+  icon: material-symbols-light:cloud-download-rounded
+  to: /downloads
+  ---
+   O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
+  ::
+  ::card
+  ---
+  title: Novidades de Versão
+  icon: material-symbols:release-alert-rounded
+  to: /release
   ---
   O módulo de Estoque gerencia todas as informações relativas ao estoque, incluindo quantidades, localizações e movimentações de produtos.
   ::
