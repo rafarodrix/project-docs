@@ -16,7 +16,16 @@
     "vue-router": "^4.4.0"
   },
   "devDependencies": {
+    "@iconify-json/carbon": "^1.1.36",
     "@iconify-json/fluent": "^1.1.59",
-    "@iconify-json/noto": "^1.1.18"
+    "@iconify-json/hugeicons": "^1.1.0",
+    "@iconify-json/ic": "^1.1.17",
+    "@iconify-json/icon-park-outline": "^1.1.15",
+    "@iconify-json/ion": "^1.1.18",
+    "@iconify-json/material-symbols": "^1.1.85",
+    "@iconify-json/mdi": "^1.1.67",
+    "@iconify-json/noto": "^1.1.18",
+    "@iconify-json/tabler": "^1.1.118",
+    "@iconify-json/teenyicons": "^1.1.9"
   }
 }
