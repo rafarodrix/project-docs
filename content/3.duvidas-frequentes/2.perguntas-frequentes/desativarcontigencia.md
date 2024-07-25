@@ -26,7 +26,6 @@ Acesse no menu `Cadastro > Empresa`
 </figure>
 [Visualizar vídeo em Tela Cheia](/documentacao/assets/images/duvidas/cadastro/contigencia/003.gif){ .md-button }
 
-::
  ::card
  #title
  :icon{name="fluent:person-support-24-filled"}Precisa de ajuda e não encontrou aqui?
@@ -36,4 +35,4 @@ Acesse no menu `Cadastro > Empresa`
 :icon{name="teenyicons:envelope-solid"} Email:  <equipe@trilinksoftware.com.br>
 :br
 :icon{name="ic:round-phone-iphone"} Telefone (34) 99771 3731
-::
+ ::

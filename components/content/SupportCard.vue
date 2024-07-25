@@ -14,7 +14,7 @@
   </template>
   
   <script setup>
-  import Icon from 'vue-icon-component' // Substitua com o componente de ícone que você está usando, como FontAwesome ou qualquer outro.
+ // import Icon from 'vue-icon-component' // Substitua com o componente de ícone que você está usando, como FontAwesome ou qualquer outro.
   </script>
   
   <style scoped>
