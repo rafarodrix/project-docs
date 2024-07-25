@@ -7,10 +7,6 @@ description: Como desativar a Contingência da NF-e?
 
 Acesse o site [Nota Fiscal Eletrônica](https://www.nfe.fazenda.gov.br/portal/principal.aspx) e verifique se seu estado está com a contingência ativada na seção :badge[Avisos]{type="warning"}
 
-<figure markdown>
-  ![004](/documentacao/assets/images/duvidas/cadastro/contigencia/004.png)
-</figure>
-
 Conforme imagem acima podemos verificar que não existe nenhum estado com a contingência ativada, somente o estado de __SP__ existe um agendamento para o dia 11/06/2023 neste caso a emissão de NFe em contingência deve ser desativada caso esteja ativa no sistema.
 
 ## __Como desativar a Contingência da NF-e?__
