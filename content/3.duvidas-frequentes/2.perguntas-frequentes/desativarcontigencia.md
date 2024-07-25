@@ -26,13 +26,14 @@ Acesse no menu `Cadastro > Empresa`
 </figure>
 [Visualizar vídeo em Tela Cheia](/documentacao/assets/images/duvidas/cadastro/contigencia/003.gif){ .md-button }
 
-
- ::card{icon="fluent:person-support-24-filled"}
+::
+ ::card
  #title
- Precisa de ajuda e não encontrou aqui?
+ :icon{name="fluent:person-support-24-filled"}Precisa de ajuda e não encontrou aqui?
  #description
- Entre em contato com nossa equipe de suporte. :br
+ Entre em contato com nossa equipe de suporte. :br :br
 
-    - E-mail equipe@trilinksoftware.com.br 
-    - Telefone (34) 99771 3731
- ::
+:icon{name="teenyicons:envelope-solid"} Email:  <equipe@trilinksoftware.com.br>
+:br
+:icon{name="ic:round-phone-iphone"} Telefone (34) 99771 3731
+::
