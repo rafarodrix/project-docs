@@ -26,6 +26,7 @@
     "@iconify-json/material-symbols-light": "^1.1.25",
     "@iconify-json/mdi": "^1.1.67",
     "@iconify-json/noto": "^1.1.18",
+    "@iconify-json/simple-icons": "^1.1.110",
     "@iconify-json/tabler": "^1.1.118",
     "@iconify-json/teenyicons": "^1.1.9"
   }

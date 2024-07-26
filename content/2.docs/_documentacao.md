@@ -115,7 +115,7 @@ O módulo de Venda automatiza o processo de vendas, desde a oferta até o fecham
 ::card
 ---
 to: /docs/relatorio/relatorio
-icon: material-symbols:order-approve-outline-rounded
+icon: bxs:report
 ---
 #title
 Relatório

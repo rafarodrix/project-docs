@@ -29,7 +29,7 @@ Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápid
   ---
   title: Documentação
   icon: lucide:book-open
-  to: /docs/documentacao
+  to: /docs/_documentacao
   ---
    O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
   ::
@@ -37,7 +37,7 @@ Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápid
   ---
   title: Dúvidas Frequentes
   icon: mdi:frequently-asked-questions
-  to: /duvidas-frequentes/duvidas
+  to: /duvidas/_duvidas
   ---
   O módulo de Estoque gerencia todas as informações relativas ao estoque, incluindo quantidades, localizações e movimentações de produtos.
   ::
