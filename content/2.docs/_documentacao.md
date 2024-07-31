@@ -43,7 +43,7 @@ O módulo de Compra facilita a aquisição de produtos e serviços, automatizand
 
 ::card
 ---
-to: /docs/financeiro/banco/alinea
+to: /docs/financeiro/_financeiro
 icon: material-symbols:account-balance
 ---
 #title
