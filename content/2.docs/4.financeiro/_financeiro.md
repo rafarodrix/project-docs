@@ -5,18 +5,28 @@ navigation: false
 navigation.redirect: /docs/financeiro/_financeiro
 ---
 
-### Banco
+## Banco
 
-::alert{to="/docs/financeiro/banco/alinea" target="_blank" icon="material-symbols-add-link"}
-  **Alínea** :br
+::card-group
+  ::card
+  ---
+  title: Alínea
+  to: /docs/financeiro/banco/alinea
+  target: _blank
+  ---
   Módulo onde é feito os cadastros dos códigos utilizados para identificar o motivo pelo qual um cheque foi devolvido.
-::
-::alert{to="/docs/financeiro/banco/banco" target="_blank" icon="material-symbols-add-link"}
-  **Banco** :br
+  ::
+  ::card
+  ---
+  title: Banco
+  to: /docs/financeiro/banco/banco
+  target: _blank
+  ---
   Módulo é responsável pelo cadastro dos bancos utilizados para identificar o banco emitente dos cheques.
+  ::
 ::
 
-### Caixa
+## Caixa
 
 ::alert{to="/docs/financeiro/caixa/conferencia" target="_blank" icon="material-symbols-add-link"}
   **Conferencia**
@@ -37,7 +47,7 @@ navigation.redirect: /docs/financeiro/_financeiro
   **Projeção Fluxo de Caixa**
 ::
 
-### Cartão
+## Cartão
 
 ::alert{to="/docs/financeiro/cartao/bandeira" target="_blank" icon="material-symbols-add-link"}
   **Bandeira**
@@ -49,13 +59,13 @@ navigation.redirect: /docs/financeiro/_financeiro
   **Rede**
 ::  
 
-### Centro de Custo
+## Centro de Custo
 
 ::alert{to="/docs/financeiro/centro-custo/centro-custo" target="_blank" icon="material-symbols-add-link"}
   **Centro de Custo**
 ::  
 
-### Configuração
+## Configuração
 
 ::alert{to="/docs/financeiro/configuracao/configuracao-dre" target="_blank" icon="material-symbols-add-link"}
   **Confiuração DRE**
@@ -64,25 +74,25 @@ navigation.redirect: /docs/financeiro/_financeiro
   **Configuração Fluxo de Caixa**
 ::
 
-### Contas
+## Contas
 
 ::alert{to="/docs/financeiro/contas-bancarias" target="_blank" icon="material-symbols-add-link"}
   **Contas Bancarias**
 ::
 
-### Emitente
+## Emitente
 
 ::alert{to="/docs/financeiro/emitente" target="_blank" icon="material-symbols-add-link"}
   **Emitente**
 ::
 
-### Faturamento
+## Faturamento
 
 ::alert{to="/docs/financeiro/faturamento-manual" target="_blank" icon="material-symbols-add-link"}
   **Faturamento Manual**
 ::
 
-### Outros
+## Outros
 
 ::alert{to="/docs/financeiro/outros/apuracao-funcionario" target="_blank" icon="material-symbols-add-link"}
   **Apuração Movimneto Funcionario**
@@ -94,7 +104,7 @@ navigation.redirect: /docs/financeiro/_financeiro
   **Movimento Funcionario**
 ::
 
-### Plano de Pagamento
+## Plano de Pagamento
 
 ::alert{to="/docs/financeiro/plano-pagamento/forma-pagamento" target="_blank" icon="material-symbols-add-link"}
   **Forma de Pagemnto**
@@ -104,13 +114,13 @@ navigation.redirect: /docs/financeiro/_financeiro
   **Plano de Paamento**
 ::
 
-### Portador
+## Portador
 
 ::alert{to="/docs/financeiro/portador" target="_blank" icon="material-symbols-add-link"}
   **Portador**
 ::
 
-### Titulos
+## Titulos
 
 ::alert{to="/docs/financeiro/titulos" target="_blank" icon="material-symbols-add-link"}
   **Títulos**
