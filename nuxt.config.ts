@@ -7,6 +7,20 @@ export default defineNuxtConfig({
   content: {
     navigation: {
       fields: ['publishedAt']
+    },
+    markdown: {
+      remarkPlugins: ['remark-math'],
+      rehypePlugins: [['rehype-katex', { strict: false }]]
+    }
+  },
+
+  css: [
+    'katex/dist/katex.min.css'
+  ],
+
+  vue: {
+    compilerOptions: {
+      isCustomElement: tag => ['mo', 'mtext', 'annotation', 'Mover', 'Mfrac', 'Mrow'].includes(tag)
     }
   }
 });
