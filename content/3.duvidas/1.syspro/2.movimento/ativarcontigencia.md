@@ -35,13 +35,16 @@ Na guia Emissão NF-e acesse a aba WebService. NA opção Modo de Emissão selec
   
 Com a configuração de contingência ativada, você pode efetuar a transmissão da NF-e normalmente.
 ::
- ::card
- #title
- :icon{name="fluent:person-support-24-filled"}Precisa de ajuda e não encontrou aqui?
- #description
- Entre em contato com nossa equipe de suporte. :br :br
+::card
 
-:icon{name="teenyicons:envelope-solid"} Email:  <equipe@trilinksoftware.com.br>
-:br
-:icon{name="ic:round-phone-iphone"} Telefone (34) 99771 3731
+#title
+:icon{name="fluent:person-support-24-filled"} Precisa de ajuda e não encontrou aqui?
+#description
+Entre em contato, estamos disponíveis para ajudar você com qualquer dúvida ou problema que possa ter.
+
+---
+
+- :icon{name="akar-icons-whatsapp-fill"} **whatsapp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
+- :icon{name="teenyicons:envelope-solid"} **E-mail:** [equipe@trilinksoftware.com.br](mailto:equipe@trilinksoftware.com.br)
+
 ::

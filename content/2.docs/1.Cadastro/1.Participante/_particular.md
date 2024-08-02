@@ -17,3 +17,4 @@ Para utilizar a verificação de limite de crédito, é necessário configurar a
 Para isso, acesse o menu Cadastros > Participante > Participante e selecione o cadastro do cliente que deseja configurar, clique na aba Venda Particular e preencha os campos conforme a necessidade.
 
 ![Tela cadastro de participante pessoa fisica](/img/documentacao/participante/particular/001.gif)
+
