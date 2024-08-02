@@ -14,13 +14,16 @@ export default defineNuxtConfig({
     }
   },
 
+  components: true,
+
   css: [
     'katex/dist/katex.min.css'
   ],
 
   vue: {
     compilerOptions: {
-      isCustomElement: tag => ['mo', 'mtext', 'annotation', 'Mover', 'Mfrac', 'Mrow'].includes(tag)
+      isCustomElement: tag => ['mtext', 'mo', 'mrow', 'mover', 'annotation', 'semantics'].includes(tag)
     }
   }
+
 });
