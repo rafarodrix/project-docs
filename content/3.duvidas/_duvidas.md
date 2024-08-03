@@ -7,11 +7,35 @@ navigation: false
 ::card
 ---
 to: /duvidas/syspro/financeiro/indicadores
-icon: material-symbols:account-box-sharp
+icon: material-symbols:device-hub
 ---
 #title
-Cadastro
+Dúvidas Syspro ERP
 
 #content
-O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
+Encontre respostas para as principais dúvidas sobre o Syspro ERP, incluindo funcionalidades, módulos, configurações e melhores práticas para otimizar seu uso.
+::
+
+::card
+---
+to: /duvidas/syspro/financeiro/indicadores
+icon: material-symbols:computer
+---
+#title
+Dúvidas Sobre Hardware
+
+#content
+Solucione dúvidas relacionadas a hardware que interagem com o Syspro ERP, como servidores, estações de trabalho, impressoras e outros periféricos essenciais.
+::
+
+::card
+---
+to: /duvidas/syspro/financeiro/indicadores
+icon: material-symbols:food-bank
+---
+#title
+Dúvidas sobre Legislação
+
+#content
+Obtenha esclarecimentos sobre questões legislativas que impactam o uso do Syspro ERP, incluindo regulamentações fiscais, contábeis e requisitos de conformidade.
 ::
