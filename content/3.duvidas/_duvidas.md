@@ -31,6 +31,18 @@ Solucione dúvidas relacionadas a hardware que interagem com o Syspro ERP, como 
 ::card
 ---
 to: /duvidas/syspro/financeiro/indicadores
+icon: material-symbols:sync-alt
+---
+#title
+Dúvidas Sobre Integrações
+
+#content
+Encontre respostas para questões sobre integrações do Syspro ERP com outros sistemas, como ERPs, CRMs, ferramentas de BI e outros softwares corporativos.
+::
+
+::card
+---
+to: /duvidas/syspro/financeiro/indicadores
 icon: material-symbols:food-bank
 ---
 #title
