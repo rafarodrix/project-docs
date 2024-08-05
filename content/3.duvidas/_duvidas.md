@@ -21,7 +21,7 @@ Encontre respostas para as principais dúvidas sobre o Syspro ERP, incluindo fun
 to: /duvidas/syspro/financeiro/indicadores
 icon: material-symbols:computer
 ---
-#title
+#title  
 Dúvidas Sobre Hardware
 
 #content
