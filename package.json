@@ -18,10 +18,12 @@
     "vue-router": "^4.4.0"
   },
   "devDependencies": {
+    "@iconify-json/akar-icons": "^1.1.26",
+    "@iconify-json/bxs": "^1.1.11",
     "@iconify-json/carbon": "^1.1.36",
     "@iconify-json/fluent": "^1.1.59",
     "@iconify-json/gridicons": "^1.1.14",
-    "@iconify-json/hugeicons": "^1.1.0",
+    "@iconify-json/hugeicons": "^1.1.1",
     "@iconify-json/ic": "^1.1.17",
     "@iconify-json/icon-park-outline": "^1.1.15",
     "@iconify-json/ion": "^1.1.18",
