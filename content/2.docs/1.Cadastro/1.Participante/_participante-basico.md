@@ -66,4 +66,10 @@ Para efetuar o cadastro, siga os passos abaixo:
   **Número**:  Informe o número do endereço do cliente. :br
   **Operadora**:  Informe a operadora do cliente. :br
 
+### Venda Particular
+
+  **Dia Vencimento**: Dia de vencimento da venda. :br
+  **Limite**: Limite de crédito. :br
+  **Incluir empresa**: Faça a inclusão da empresa onde o limite de crédito sera liberado.
+
 ::
