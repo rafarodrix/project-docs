@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@shadcn/ui": "^0.0.4",
     "nuxt": "^3.13.0",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
