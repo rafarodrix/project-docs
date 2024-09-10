@@ -1,4 +1,4 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+// nuxt.config.ts
 export default defineNuxtConfig({
   devtools: { enabled: true },
   extends: ['shadcn-docs-nuxt'],
@@ -24,6 +24,10 @@ export default defineNuxtConfig({
     compilerOptions: {
       isCustomElement: tag => ['mtext', 'mo', 'mrow', 'mover', 'annotation', 'semantics'].includes(tag)
     }
-  }
+  },
 
+  // Aplicar o middleware de teste globalmente
+  router: {
+    middleware: ['testMiddleware']
+  }
 });
