@@ -7,33 +7,33 @@ main:
 ---
 
 ::hero
----
-
-actions:
-
-- name: Comece por aqui!
-  to: /primeiros-passos/introducao
-  leftIcon: 'lucide:rocket'
-
----
 
 #title
 Central de Ajuda SYSPRO ERP
 :br
 
 #description
-Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápido e seguro a informações cruciais, facilitando e aprimorando significativamente as operações diárias.
+Acesso rápido e seguro às informações essenciais para o seu dia a dia no SYSPRO ERP. Explore nossos guias, tutoriais e recursos para maximizar sua experiência.
 :br
 ::
 
 ::card-group
   ::card
   ---
+  title: Primeiros Passos
+  icon: lucide:rocket
+  to: /primeiros-passos/introducao
+  ---
+  Nesta seção você vai aprender a como configurar o ERP, realizar os cadastros iniciais e entender a estrutura básica do sistema. :br :br
+  ::
+
+  ::card
+  ---
   title: Documentação
   icon: lucide:book-open
   to: /docs/_documentacao
   ---
-  O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
+  Nesta seçao você vai encontrar a documentação técnica e funcional do SYSPRO ERP, com exemplos práticos e tutoriais para todos os módulos.
   ::
 
   ::card
@@ -42,7 +42,16 @@ Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápid
   icon: mdi:frequently-asked-questions
   to: /duvidas/_duvidas
   ---
-    O módulo de Estoque gerencia todas as informações relativas ao estoque, incluindo quantidades, localizações e movimentações de produtos.
+    Nesta seção você vai aprender soluções para problemas comuns, respostas a dúvidas frequentes e melhores práticas no uso do sistema.
+  ::
+
+  ::card
+  ---
+  title: Treinamentos
+  icon: lucide-album
+  to: /treinamentos/_treinamentos
+  ---
+    Acesse tutoriais detalhados para usar as principais funcionalidades do SYSPRO ERP com exemplos práticos.
   ::
 
   ::card
@@ -51,7 +60,7 @@ Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápid
   icon: material-symbols-light:cloud-download-rounded
   to: /downloads
   ---
-  O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
+  Links para download de atualizações, pacotes, Drivers de instalação e complementos de integração.
   ::
 
   ::card
@@ -60,6 +69,6 @@ Esta página foi desenvolvida para fornecer aos nossos clientes um acesso rápid
   icon: material-symbols:release-alert-rounded
   to: /release
   ---
-  O módulo de Estoque gerencia todas as informações relativas ao estoque, incluindo quantidades, localizações e movimentações de produtos.
+  Mantenha-se atualizado com as últimas melhorias, correções e novos recursos implementados no SYSPRO ERP.
   ::
 ::
