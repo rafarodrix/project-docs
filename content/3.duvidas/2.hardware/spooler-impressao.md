@@ -114,20 +114,6 @@ Este guia oferece duas formas de corrigir problemas com o spooler de impressão 
 
 Se nenhuma dessas soluções funcionar, você pode verificar logs de erros específicos ou procurar por atualizações no Windows Update que possam corrigir o problema.
 
----
-
-## Precisa de Ajuda?
-
-Se você não encontrou a solução para o seu problema ou precisa de mais assistência, entre em contato com nossa equipe.
-
-- :icon{name="akar-icons-whatsapp-fill"} **WhatsApp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
-- :icon{name="teenyicons:envelope-solid"} **E-mail:** [equipe@trilinksoftware.com.br](mailto:equipe@trilinksoftware.com.br)
-
----
-
-Este manual foi criado para resolver problemas comuns com o spooler de impressão no Windows e facilitar o processo através de automação.
-
-Se essas opções não resolverem, pode ser necessário investigar logs de erro específicos ou verificar se há atualizações no Windows Update que possam corrigir o problema.
 ::card
 
 #title
