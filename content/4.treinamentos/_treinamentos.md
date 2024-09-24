@@ -4,9 +4,19 @@ description: Este manual foi desenvolvido para guiá-lo pelos primeiros passos e
 icon: lucide:rocket
 ---
 
-## Primeiros Passos
+###
+::card
+---
+to: /treinamentos/conceito-essenciais
+target: _blank
+---
+#title
+Conceito Essenciais
 
-::steps
+#content
+O treinamento de Conceitos essenciais
+::
+
 
 ###
 ::card
@@ -19,6 +29,19 @@ Lançamento de Documentos Fiscais
 
 #content
 O treinamento de Lançamento de Documentos Fiscais foi desenvolvido para orientar os usuários nos processos de emissão, validação e controle de documentos fiscais. Aqui, você aprenderá a realizar as principais operações envolvendo notas fiscais, conhecendo os conceitos essenciais e a legislação aplicada.
+::
+
+###
+::card
+---
+to: /treinamentos/calculo-imposto-sn
+target: _blank
+---
+#title
+Cálculo do DAS - Simples Nacional
+
+#content
+Esse processo assegura que o cálculo do imposto seja feito corretamente, considerando todas as regras do Simples Nacional.
 ::
 
 ::card
