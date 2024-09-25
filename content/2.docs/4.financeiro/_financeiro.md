@@ -5,7 +5,7 @@ navigation: false
 navigation.redirect: /docs/financeiro/_financeiro
 ---
 
-## Banco
+## Módulos Financeiros
 
 ::card-group
   ::card
@@ -14,114 +14,213 @@ navigation.redirect: /docs/financeiro/_financeiro
   to: /docs/financeiro/banco/alinea
   target: _blank
   ---
-  Módulo onde é feito os cadastros dos códigos utilizados para identificar o motivo pelo qual um cheque foi devolvido.
+  Módulo responsável pelo cadastro dos códigos que identificam o motivo de devolução de cheques.
   ::
+
   ::card
   ---
   title: Banco
   to: /docs/financeiro/banco/banco
   target: _blank
   ---
-  Módulo é responsável pelo cadastro dos bancos utilizados para identificar o banco emitente dos cheques.
+  Módulo para cadastro dos bancos utilizados, identificando o banco emitente dos cheques.
   ::
-::
 
-## Caixa
+  ::card
+  ---
+  title: Conferência
+  to: /docs/financeiro/caixa/conferencia
+  target: _blank
+  ---
+  Acesse a seção de conferência para validar registros financeiros.
+  ::
 
-::alert{to="/docs/financeiro/caixa/conferencia" target="_blank" icon="material-symbols-add-link"}
-  **Conferencia**
-::
-::alert{to="/docs/financeiro/caixa/dre" target="_blank" icon="material-symbols-add-link"}
-  **DRE**
-::
-::alert{to="/docs/financeiro/caixa/fluxo-caixa" target="_blank" icon="material-symbols-add-link"}
-  **Fluxo de Caixa**
-::
-::alert{to="/docs/financeiro/caixa/grupo-plano-caixa" target="_blank" icon="material-symbols-add-link"}
-  **Grupo plano caixa**
-::
-::alert{to="/docs/financeiro/caixa/plano-conta-caixa" target="_blank" icon="material-symbols-add-link"}
-  **Plano Conta Caixa**
-::
-::alert{to="/docs/financeiro/caixa/projecao-fluxo-caixa" target="_blank" icon="material-symbols-add-link"}
-  **Projeção Fluxo de Caixa**
-::
+  ::card
+  ---
+  title: DRE
+  to: /docs/financeiro/caixa/dre
+  target: _blank
+  ---
+  Consulte o Demonstrativo de Resultados do Exercício (DRE) para análise financeira.
+  ::
 
-## Cartão
+  ::card
+  ---
+  title: Fluxo de Caixa
+  to: /docs/financeiro/caixa/fluxo-caixa
+  target: _blank
+  ---
+  Ferramenta para gestão e acompanhamento do fluxo de caixa da empresa.
+  ::
 
-::alert{to="/docs/financeiro/cartao/bandeira" target="_blank" icon="material-symbols-add-link"}
-  **Bandeira**
-::
-::alert{to="/docs/financeiro/cartao/taxa-cartao" target="_blank" icon="material-symbols-add-link"}
-  **Taxa de Cartão**
-::
-::alert{to="/docs/financeiro/cartao/rede" target="_blank" icon="material-symbols-add-link"}
-  **Rede**
-::  
+  ::card
+  ---
+  title: Grupo Plano Caixa
+  to: /docs/financeiro/caixa/grupo-plano-caixa
+  target: _blank
+  ---
+  Organize planos de caixa em grupos para melhor gestão financeira.
+  ::
 
-## Centro de Custo
+  ::card
+  ---
+  title: Plano de Conta Caixa
+  to: /docs/financeiro/caixa/plano-conta-caixa
+  target: _blank
+  ---
+  Módulo de configuração das contas utilizadas no fluxo de caixa.
+  ::
 
-::alert{to="/docs/financeiro/centro-custo/centro-custo" target="_blank" icon="material-symbols-add-link"}
-  **Centro de Custo**
-::  
+  ::card
+  ---
+  title: Projeção do Fluxo de Caixa
+  to: /docs/financeiro/caixa/projecao-fluxo-caixa
+  target: _blank
+  ---
+  Projete o fluxo de caixa futuro com base nos dados atuais.
+  ::
 
-## Configuração
+  ::card
+  ---
+  title: Bandeira
+  to: /docs/financeiro/cartao/bandeira
+  target: _blank
+  ---
+  Cadastro e gerenciamento de bandeiras de cartões aceitos.
+  ::
 
-::alert{to="/docs/financeiro/configuracao/configuracao-dre" target="_blank" icon="material-symbols-add-link"}
-  **Confiuração DRE**
-::
-::alert{to="/docs/financeiro/configuracao/configuracao-fluxo-caixa" target="_blank" icon="material-symbols-add-link"}
-  **Configuração Fluxo de Caixa**
-::
+  ::card
+  ---
+  title: Taxa de Cartão
+  to: /docs/financeiro/cartao/taxa-cartao
+  target: _blank
+  ---
+  Configure as taxas de transações de cartões.
+  ::
 
-## Contas
+  ::card
+  ---
+  title: Rede
+  to: /docs/financeiro/cartao/rede
+  target: _blank
+  ---
+  Gerencie as redes de cartões e suas configurações.
+  ::
 
-::alert{to="/docs/financeiro/contas-bancarias" target="_blank" icon="material-symbols-add-link"}
-  **Contas Bancarias**
-::
+  ::card
+  ---
+  title: Centro de Custo
+  to: /docs/financeiro/centro-custo/centro-custo
+  target: _blank
+  ---
+  Módulo para definir e gerenciar centros de custo.
+  ::
 
-## Emitente
+  ::card
+  ---
+  title: Configuração DRE
+  to: /docs/financeiro/configuracao/configuracao-dre
+  target: _blank
+  ---
+  Ajuste as configurações do Demonstrativo de Resultados do Exercício.
+  ::
 
-::alert{to="/docs/financeiro/emitente" target="_blank" icon="material-symbols-add-link"}
-  **Emitente**
-::
+  ::card
+  ---
+  title: Configuração Fluxo de Caixa
+  to: /docs/financeiro/configuracao/configuracao-fluxo-caixa
+  target: _blank
+  ---
+  Configure as definições do fluxo de caixa.
+  ::
 
-## Faturamento
+  ::card
+  ---
+  title: Contas Bancárias
+  to: /docs/financeiro/contas-bancarias
+  target: _blank
+  ---
+  Gerencie as contas bancárias utilizadas pela empresa.
+  ::
 
-::alert{to="/docs/financeiro/faturamento-manual" target="_blank" icon="material-symbols-add-link"}
-  **Faturamento Manual**
-::
+  ::card
+  ---
+  title: Emitente
+  to: /docs/financeiro/emitente
+  target: _blank
+  ---
+  Configuração de dados do emitente dos documentos fiscais e financeiros.
+  ::
 
-## Outros
+  ::card
+  ---
+  title: Faturamento Manual
+  to: /docs/financeiro/faturamento-manual
+  target: _blank
+  ---
+  Emita faturas de forma manual para cobranças específicas.
+  ::
 
-::alert{to="/docs/financeiro/outros/apuracao-funcionario" target="_blank" icon="material-symbols-add-link"}
-  **Apuração Movimneto Funcionario**
-::
-::alert{to="/docs/financeiro/outros/despesa-viagem" target="_blank" icon="material-symbols-add-link"}
-  **Despesa com Viagem**
-::
-::alert{to="/docs/financeiro/outros/movimento-funcionario" target="_blank" icon="material-symbols-add-link"}
-  **Movimento Funcionario**
-::
+  ::card
+  ---
+  title: Apuração Movimento Funcionário
+  to: /docs/financeiro/outros/apuracao-funcionario
+  target: _blank
+  ---
+  Realize a apuração dos movimentos financeiros relacionados aos funcionários.
+  ::
 
-## Plano de Pagamento
+  ::card
+  ---
+  title: Despesa com Viagem
+  to: /docs/financeiro/outros/despesa-viagem
+  target: _blank
+  ---
+  Controle e registre despesas com viagens corporativas.
+  ::
 
-::alert{to="/docs/financeiro/plano-pagamento/forma-pagamento" target="_blank" icon="material-symbols-add-link"}
-  **Forma de Pagemnto**
-::
+  ::card
+  ---
+  title: Movimento Funcionário
+  to: /docs/financeiro/outros/movimento-funcionario
+  target: _blank
+  ---
+  Gerencie movimentações financeiras de funcionários.
+  ::
 
-::alert{to="/docs/financeiro/plano-pagamento/plano-pagamento" target="_blank" icon="material-symbols-add-link"}
-  **Plano de Paamento**
-::
+  ::card
+  ---
+  title: Forma de Pagamento
+  to: /docs/financeiro/plano-pagamento/forma-pagamento
+  target: _blank
+  ---
+  Defina as formas de pagamento aceitas pela empresa.
+  ::
 
-## Portador
+  ::card
+  ---
+  title: Plano de Pagamento
+  to: /docs/financeiro/plano-pagamento/plano-pagamento
+  target: _blank
+  ---
+  Configure planos de pagamento personalizados.
+  ::
 
-::alert{to="/docs/financeiro/portador" target="_blank" icon="material-symbols-add-link"}
-  **Portador**
-::
+  ::card
+  ---
+  title: Portador
+  to: /docs/financeiro/portador
+  target: _blank
+  ---
+  Cadastre e gerencie os portadores utilizados nas transações financeiras.
+  ::
 
-## Titulos
-
-::alert{to="/docs/financeiro/titulos" target="_blank" icon="material-symbols-add-link"}
-  **Títulos**
+  ::card
+  ---
+  title: Títulos
+  to: /docs/financeiro/titulos/titulos
+  target: _blank
+  ---
+  Gerencie os títulos financeiros da empresa.
+  ::
 ::
