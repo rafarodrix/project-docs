@@ -24,10 +24,5 @@ export default defineNuxtConfig({
     compilerOptions: {
       isCustomElement: tag => ['mtext', 'mo', 'mrow', 'mover', 'annotation', 'semantics'].includes(tag)
     }
-  },
-
-  // Aplicar o middleware de teste globalmente
-  router: {
-    middleware: ['testMiddleware']
   }
 });
