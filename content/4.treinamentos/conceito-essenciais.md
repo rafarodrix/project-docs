@@ -5,7 +5,6 @@ description: Este manual foi elaborado para ajudar aqueles que são novos nos co
 
 Este manual foi elaborado para ajudar aqueles que são novos nos conceitos de contabilidade, e esão interessada em compreender os principais aspectos financeiros de uma empresa. Abordaremos os tipos de gastos, regimes de contabilização e o princípio da entidade com explicações claras e exemplos práticos.
 
-
 ## 1. **O que são Gastos: Custos, Despesas e Investimentos**
 
 ### **Definição Geral de Gastos**
