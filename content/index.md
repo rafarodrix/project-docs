@@ -54,16 +54,6 @@ Encontre tudo o que você precisa para dominar o SYSPRO ERP de forma rápida e s
   
 ::card-group
   ::card
-  --- 
-  class: card
-  title: Primeiros Passos
-  icon: lucide:rocket
-  to: /primeiros-passos/introducao
-  ---
-  Nesta seção você vai aprender a como configurar o ERP, realizar os cadastros iniciais e entender a estrutura básica do sistema.
-  ::
-
-  ::card
   ---
   class: card
   title: Documentação
@@ -92,6 +82,16 @@ Encontre tudo o que você precisa para dominar o SYSPRO ERP de forma rápida e s
   ---
   Acesse tutoriais detalhados para usar as principais funcionalidades do SYSPRO ERP com exemplos práticos.
   ::
+
+  ::card
+  --- 
+  class: card
+  title: Suporte
+  icon: lucide:rocket
+  to: /suporte/guia-suporte
+  ---
+  Aqui, você terá acesso a informações detalhadas sobre horários de atendimento, procedimentos para abertura de chamados.
+ ::
 
   ::card
   ---
