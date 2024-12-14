@@ -11,12 +11,11 @@ to: /treinamentos/conceito-essenciais
 target: _blank
 ---
 #title
-Conceito Essenciais
+:icon{name="lucide:briefcase"} Planejamento Tributário
 
 #content
-O treinamento de Conceitos essenciais
+O treinamento de **Planejamento Tributário** tem como objetivo capacitar você a entender os conceitos fundamentais sobre a gestão tributária da sua empresa.
 ::
-
 
 ###
 ::card
@@ -25,23 +24,23 @@ to: /treinamentos/visao-geral-documentos
 target: _blank
 ---
 #title
-Lançamento de Documentos Fiscais
+:icon{name="lucide:tag"} Formação de Preços e Custos
 
 #content
-O treinamento de Lançamento de Documentos Fiscais foi desenvolvido para orientar os usuários nos processos de emissão, validação e controle de documentos fiscais. Aqui, você aprenderá a realizar as principais operações envolvendo notas fiscais, conhecendo os conceitos essenciais e a legislação aplicada.
+O treinamento de **Formação de Preços e Custos** é essencial para compreender como calcular e aplicar os custos de produção e operação na formação de preços de venda.
 ::
 
 ###
 ::card
 ---
-to: /treinamentos/calculo-imposto-sn
+to: /treinamentos/analisesfinanceiras/_indexanalisesfinanceiras
 target: _blank
 ---
 #title
-Cálculo do DAS - Simples Nacional
+:icon{name="lucide:wallet"} Gestão Financeira
 
 #content
-Esse processo assegura que o cálculo do imposto seja feito corretamente, considerando todas as regras do Simples Nacional.
+O treinamento de **Gestão Financeira** tem como foco a compreensão completa dos aspectos financeiros da sua empresa. Durante este curso, você aprenderá a controlar e analisar suas finanças, planejar o fluxo de caixa, avaliar a rentabilidade e implementar estratégias para melhorar a saúde financeira.
 ::
 
 ::card

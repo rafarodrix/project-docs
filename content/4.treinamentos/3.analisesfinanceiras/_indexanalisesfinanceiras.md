@@ -1,6 +1,6 @@
 ---
 title: Gestão Financeira
-description: Este manual foi elaborado para ajudar aqueles que são novos nos conceitos de contabilidade
+description: Este manual é destinado a fornecer uma compreensão abrangente da gestão financeira empresarial.
 ---
 
 ## **Introdução**
