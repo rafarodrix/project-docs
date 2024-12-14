@@ -43,6 +43,8 @@ target: _blank
 O treinamento de **Gestão Financeira** tem como foco a compreensão completa dos aspectos financeiros da sua empresa. Durante este curso, você aprenderá a controlar e analisar suas finanças, planejar o fluxo de caixa, avaliar a rentabilidade e implementar estratégias para melhorar a saúde financeira.
 ::
 
+---
+
 ::card
 
 #title

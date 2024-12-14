@@ -8,10 +8,10 @@ navigation: false
 ::card
 ---
 to: /docs/cadastro/empresa
-icon: material-symbols:account-box-sharp
+
 ---
 #title
-Cadastro
+:icon{name="material-symbols:account-box-sharp"} Cadastro
 
 #content
 O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro ERP, permitindo a inclusão de dados de clientes, fornecedores e produtos.
@@ -20,10 +20,10 @@ O módulo de Cadastro é fundamental para iniciar qualquer operação no Syspro 
 ::card
 ---
 to: /docs/estoque/departamento
-icon: material-symbols:box-add-outline
+
 ---
 #title
-Estoque
+:icon{name="material-symbols:box-add-outline"} Estoque
 
 #content
 O módulo de Estoque gerencia todas as informações relativas ao estoque, incluindo quantidades, localizações e movimentações de produtos.
@@ -32,10 +32,10 @@ O módulo de Estoque gerencia todas as informações relativas ao estoque, inclu
 ::card
 ---
 to: /docs/compra/cotacao
-icon: material-symbols:shopping-cart
+
 ---
 #title
-Compra
+:icon{name="material-symbols:shopping-cart"} Compra
 
 #content
 O módulo de Compra facilita a aquisição de produtos e serviços, automatizando o processo de pedidos e gerenciamento de fornecedores.
@@ -44,10 +44,10 @@ O módulo de Compra facilita a aquisição de produtos e serviços, automatizand
 ::card
 ---
 to: /docs/financeiro/_financeiro
-icon: material-symbols:account-balance
+
 ---
 #title
-Financeiro
+:icon{name="material-symbols:account-balance"} Financeiro
 
 #content
 O módulo Financeiro oferece uma visão completa da saúde financeira da empresa, abrangendo fluxo de caixa, contas a pagar e a receber.
@@ -56,10 +56,10 @@ O módulo Financeiro oferece uma visão completa da saúde financeira da empresa
 ::card
 ---
 to: docs/movimento/lancamento-documento
-icon: material-symbols:move-down
+
 ---
 #title
-Movimento
+:icon{name="material-symbols:move-down"} Movimento
 
 #content
 O módulo de Movimento é responsável por registrar todas as transações e movimentações físicas de produtos dentro e fora da empresa.
@@ -68,10 +68,10 @@ O módulo de Movimento é responsável por registrar todas as transações e mov
 ::card
 ---
 to: /docs/fiscal/fiscal
-icon: material-symbols:content-paste-search
+
 ---
 #title
-Fiscal
+:icon{name="material-symbols:content-paste-search"} Fiscal
 
 #content
 O módulo Fiscal assegura a conformidade com a legislação tributária, gerenciando impostos, notas fiscais e outros documentos fiscais.
@@ -79,10 +79,10 @@ O módulo Fiscal assegura a conformidade com a legislação tributária, gerenci
 
 ::card
 ---
-icon: hugeicons:taxes
+
 ---
 #title
-Contábil
+:icon{name="hugeicons:taxes"} Contábil
 
 #content
 O módulo Contábil permite a execução de todas as operações contábeis.
@@ -91,10 +91,10 @@ O módulo Contábil permite a execução de todas as operações contábeis.
 ::card
 ---
 to: /docs/producao/produtoestoque
-icon: gridicons:product-external
+
 ---
 #title
-Produção
+:icon{name="gridicons:product-external"} Produção
 
 #content
 O módulo de Produção apoia o planejamento, controle e execução de processos produtivos, otimizando a utilização de recursos e a eficiência.
@@ -103,10 +103,10 @@ O módulo de Produção apoia o planejamento, controle e execução de processos
 ::card
 ---
 to: /docs/vendas/vendas
-icon: material-symbols:point-of-sale-sharp
+
 ---
 #title
-Venda
+:icon{name="material-symbols:point-of-sale-sharp"} Venda
 
 #content
 O módulo de Venda automatiza o processo de vendas, desde a oferta até o fechamento de pedidos, melhorando a relação com o cliente
@@ -115,10 +115,10 @@ O módulo de Venda automatiza o processo de vendas, desde a oferta até o fecham
 ::card
 ---
 to: /docs/relatorio/relatorio
-icon: bxs:report
+
 ---
 #title
-Relatório
+:icon{name="bxs:report"} Relatório
 
 #content
 O módulo de Relatório gera análises detalhadas e relatórios personalizados, oferecendo insights valiosos para a tomada de decisão.
