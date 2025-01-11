@@ -7,7 +7,7 @@ icon: lucide:rocket
 ###
 ::card
 ---
-to: /treinamentos/conceito-essenciais
+to: /treinamentos/planejamentotributario/visao-geral-documentos
 target: _blank
 ---
 #title
@@ -20,7 +20,7 @@ O treinamento de **Planejamento Tributário** tem como objetivo capacitar você 
 ###
 ::card
 ---
-to: /treinamentos/visao-geral-documentos
+to: /treinamentos/formacaodeprecoecustos/conceito-essenciais
 target: _blank
 ---
 #title

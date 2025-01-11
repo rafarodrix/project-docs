@@ -113,7 +113,7 @@ Gastos representam toda a saída de dinheiro de uma empresa, também conhecida c
 
 Compreender esses conceitos é fundamental para uma gestão financeira saudável e transparente, garantindo que as decisões sejam baseadas em informações precisas. Este manual visa proporcionar uma visão clara e acessível sobre a contabilidade empresarial, ajudando qualquer pessoa, mesmo sem conhecimento prévio, a entender e aplicar esses princípios no dia a dia.
 
-Se precisar de mais informações ou de ajuda específica sobre algum conceito, não hesite em nos contatar!
+
 ::card
 
 #title
