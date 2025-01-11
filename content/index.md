@@ -6,40 +6,6 @@ main:
   fluid: true
 ---
 
-<style>
-
-  .card {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border-radius: 12px;
-    padding: 1.5rem;
-    background-color: rgba(255, 255, 255, 0.05);
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
-  }
-
-  .card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
-  }
-
-  .card-title {
-    font-size: 1.2rem;
-    font-weight: 600;
-    margin-bottom: 0.5rem;
-  }
-
-  .card-icon {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
-    color: #00b4d8;
-  }
-
-  .card-group {
-    display: grid;
-    gap: 20px;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  }
-</style>
-
 ::hero
 #title
 <span>Central de Ajuda SYSPRO ERP</span>
