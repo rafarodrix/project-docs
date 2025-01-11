@@ -7,6 +7,19 @@ icon: lucide:rocket
 ###
 ::card
 ---
+to: /treinamentos/implantacao/introducao
+target: _blank
+---
+#title
+:icon{name="tabler:lifebuoy"} Implantação Syspro ERP
+
+#content
+O treinamento de **Planejamento Tributário** tem como objetivo capacitar você a entender os conceitos fundamentais sobre a gestão tributária da sua empresa.
+::
+
+###
+::card
+---
 to: /treinamentos/planejamentotributario/visao-geral-documentos
 target: _blank
 ---
