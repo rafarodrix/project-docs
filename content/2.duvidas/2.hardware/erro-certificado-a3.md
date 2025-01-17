@@ -1,6 +1,6 @@
 ---
-title: Erro 2148073481 ao fazer download do XML na sefaz
-description: Se você está enfrentando problemas ao usar o certificado A3 no Windows 11, siga os passos abaixo para solucionar o problema.
+title: Certificado
+description: Se você está enfrentando problemas erro 2148073481 ao usar o certificado A3 no Windows 11 ao fazer download do XML na sefaz, siga os passos abaixo para solucionar o problema.
 ---
 
 ::steps
