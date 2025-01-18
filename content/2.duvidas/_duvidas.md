@@ -52,18 +52,3 @@ to: /duvidas/syspro/financeiro/indicadores
 Obtenha esclarecimentos sobre questões legislativas que impactam o uso do Syspro ERP, incluindo regulamentações fiscais, contábeis e requisitos de conformidade.
 ::
 
----
-
-::card
-
-#title
-:icon{name="fluent:person-support-24-filled"} Precisa de ajuda e não encontrou aqui?
-#description
-Entre em contato, estamos disponíveis para ajudar você com qualquer dúvida ou problema que possa ter.
-
----
-
-- :icon{name="akar-icons-whatsapp-fill"} **WhatsApp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
-- :icon{name="teenyicons:envelope-solid"} **E-mail:** [equipe@trilinksoftware.com.br](mailto:equipe@trilinksoftware.com.br)
-
-::

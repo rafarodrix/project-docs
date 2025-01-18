@@ -7,7 +7,7 @@ breadcrumb: false
 ###
 ::card
 ---
-to: /treinamentos/implantacao/introducao
+to: /treinamentos/implantacao/implantacao
 ---
 #title
 :icon{name="tabler:lifebuoy"} Implantação Syspro ERP
@@ -50,20 +50,4 @@ to: /treinamentos/analisesfinanceiras/_indexanalisesfinanceiras
 
 #content
 O treinamento de **Gestão Financeira** tem como foco a compreensão completa dos aspectos financeiros da sua empresa. Durante este curso, você aprenderá a controlar e analisar suas finanças, planejar o fluxo de caixa, avaliar a rentabilidade e implementar estratégias para melhorar a saúde financeira.
-::
-
----
-
-::card
-
-#title
-:icon{name="fluent:person-support-24-filled"} Precisa de ajuda e não encontrou aqui?
-#description
-Entre em contato, estamos disponíveis para ajudar você com qualquer dúvida ou problema que possa ter.
-
----
-
-- :icon{name="akar-icons-whatsapp-fill"} **WhatsApp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
-- :icon{name="teenyicons:envelope-solid"} **E-mail:** [equipe@trilinksoftware.com.br](mailto:equipe@trilinksoftware.com.br)
-
 ::

@@ -6,7 +6,7 @@ export default defineAppConfig({
     },
     theme: {
       customizable: true,
-      color: 'blue',
+      color: 'slate',
       radius: 0.5,
     },
     header: {
@@ -17,7 +17,10 @@ export default defineAppConfig({
         light: '/logo.svg',
         dark: '/logo-dark.svg',
       },
-      nav: [],
+      experimental: {
+        appManifest: false  // ou false se você quiser desativar
+      },
+      nav: []
       // links: [{
       //   icon: 'lucide:github',
       //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
@@ -34,12 +37,23 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
-      // links: [{
-      //   icon: 'lucide:github',
-      //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-      //   target: '_blank',
-      // }],
+      credits: 'Copyright Trilink Software © 2025',
+      links: [{
+        title: 'Instagram',
+        icon: 'lucide:instagram',
+        to: 'https://www.instagram.com/trilinksoftwares',
+        target: '_blank',
+      }, {
+        title: 'YouTube',
+        icon: 'lucide:youtube',
+        to: 'https://www.youtube.com/channel/UCcH7GYfmvIE9_UlWAUH8h2Q',
+        target: '_blank',
+      }, {
+        title: 'WhatsApp',
+        icon: 'lucide:message-circle',
+        to: 'https://wa.me/trilinksoftware',
+        target: '_blank',
+      }],
     },
     toc: {
       enable: true,
