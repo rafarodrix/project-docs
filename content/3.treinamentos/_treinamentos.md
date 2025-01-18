@@ -8,7 +8,6 @@ breadcrumb: false
 ::card
 ---
 to: /treinamentos/implantacao/introducao
-target: _blank
 ---
 #title
 :icon{name="tabler:lifebuoy"} Implantação Syspro ERP
@@ -21,7 +20,6 @@ O treinamento de **Planejamento Tributário** tem como objetivo capacitar você 
 ::card
 ---
 to: /treinamentos/planejamentotributario/visao-geral-documentos
-target: _blank
 ---
 #title
 :icon{name="lucide:briefcase"} Planejamento Tributário
@@ -34,7 +32,6 @@ O treinamento de **Planejamento Tributário** tem como objetivo capacitar você 
 ::card
 ---
 to: /treinamentos/formacaodeprecoecustos/conceito-essenciais
-target: _blank
 ---
 #title
 :icon{name="lucide:tag"} Formação de Preços e Custos
@@ -47,7 +44,6 @@ O treinamento de **Formação de Preços e Custos** é essencial para compreende
 ::card
 ---
 to: /treinamentos/analisesfinanceiras/_indexanalisesfinanceiras
-target: _blank
 ---
 #title
 :icon{name="lucide:wallet"} Gestão Financeira

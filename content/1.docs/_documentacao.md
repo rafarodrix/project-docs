@@ -1,7 +1,9 @@
 ---
 title: Documentação
-toc: false
-breadcrumb: false
+toc: false #elimina barra lateral a esquerda
+#aside: false # elimina a barra lateral a direita
+breadcrumb: false # carrega caminho de navegção barra superior
+prevNext: false # elimina botão para proxima pagina
 ---
 
 ::card

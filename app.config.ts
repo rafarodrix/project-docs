@@ -44,24 +44,29 @@ export default defineAppConfig({
     toc: {
       enable: true,
       title: 'Nesta página',
-      // links: [{
-      //   title: 'Star on GitHub',
-      //   icon: 'lucide:star',
-      //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
-      //   target: '_blank',
-      // }, {
-      //   title: 'Create Issues',
-      //   icon: 'lucide:circle-dot',
-      //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt/issues',
-      //   target: '_blank',
-      // }],
+      links: [{
+        title: 'Instagram',
+        icon: 'lucide:instagram',
+        to: 'https://www.instagram.com/trilinksoftwares',
+        target: '_blank',
+      }, {
+        title: 'YouTube',
+        icon: 'lucide:youtube',
+        to: 'https://www.youtube.com/channel/UCcH7GYfmvIE9_UlWAUH8h2Q',
+        target: '_blank',
+      }, {
+        title: 'WhatsApp',
+        icon: 'lucide:message-circle',
+        to: 'https://wa.me/trilinksoftware',
+        target: '_blank',
+      }],
     },
     search: {
       enable: true,
       inAside: true,
-      style: 'input',
-      placeholder: 'Pesquisar',
-      placeholderDetailed: 'Pesquisar na Documentação',
+      style: 'input', //inclui barra de pesquisa
+      placeholder: 'Pesquisar', // coloca nome defiinido na pesquisa
+      placeholderDetailed: 'Pesquisar na Documentação', // coloca nome defiinido na pesquisa
     }
   }
 });
