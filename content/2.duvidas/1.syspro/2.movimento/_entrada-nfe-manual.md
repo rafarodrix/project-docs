@@ -1,6 +1,7 @@
 ---
 title: Nota Fiscal de Entrada Manual
 description: Processo para entrada de NFe de forma manual
+navTruncate: false
 ---
 
 ## Passos para Entrada de NF Manual

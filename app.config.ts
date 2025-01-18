@@ -27,6 +27,7 @@ export default defineAppConfig({
     aside: {
       useLevel: true,
       collapse: true,
+      folderStyle: 'tree',
     },
     main: {
       breadCrumb: true,
@@ -58,6 +59,9 @@ export default defineAppConfig({
     search: {
       enable: true,
       inAside: true,
+      style: 'input',
+      placeholder: 'Pesquisar',
+      placeholderDetailed: 'Pesquisar na Documentação',
     }
   }
 });

@@ -1,7 +1,7 @@
 ---
 title: Treinamento
-description: Este manual foi desenvolvido para guiá-lo pelos primeiros passos essenciais para utilizar o sistema.
-icon: lucide:rocket
+toc: false
+breadcrumb: false
 ---
 
 ###

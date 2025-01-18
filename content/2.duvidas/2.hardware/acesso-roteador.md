@@ -3,7 +3,6 @@ title: Acesso ao Roteador
 description: ste guia orienta você a acessar o painel de administração do seu roteador para realizar configurações. Inclui instruções sobre como encontrar o IP do roteador e as credenciais padrão para diferentes marcas.
 ---
 
-
 ## Instruções Gerais de Acesso
 
 ### Passo 1: Conecte-se ao Roteador

@@ -1,8 +1,7 @@
 ---
 title: Documentação
-description: Este manual foi desenvolvido para guiá-lo pelos módulos do Syspro ERP para utilizar o sistema de forma eficiente e aproveitar ao máximo suas funcionalidades.
-publishedAt: '25-07-2024'
-navigation: false
+toc: false
+breadcrumb: false
 ---
 
 ::card

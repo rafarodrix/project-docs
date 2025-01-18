@@ -1,7 +1,7 @@
 ---
 title: Dúvidas
-description: Esta seção foi desenvolvida para sanar as principais dúvidas relacionadas ao Syspro ERP ou a equipamentos que estão diretamente relacionados ao mesmo.
-navigation: false
+toc: false
+breadcrumb: false
 ---
 
 ::card
