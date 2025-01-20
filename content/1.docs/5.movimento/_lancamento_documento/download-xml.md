@@ -1,6 +1,7 @@
 ---
-title: Importar XML Manualmente
+title: Download XML
 description: Caso você possua apenas a chave de acesso ou a DANFE de uma NF-e, é possível baixar o XML através do portal da SEFAZ utilizando o certificado digital de sua empresa.
+breadcrumb: false # carrega caminho de navegção barra superior
 ---
 
 ::steps
