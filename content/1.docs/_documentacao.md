@@ -32,7 +32,7 @@ O módulo de Estoque gerencia todas as informações relativas ao estoque, inclu
 
 ::card
 ---
-to: /docs/compra/cotacao
+to: /docs/compra/_compra
 
 ---
 #title

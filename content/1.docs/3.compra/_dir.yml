@@ -1,2 +1,3 @@
 title: Compras
 icon: material-symbols:shopping-cart
+navigation.redirect: /docs/_compra
