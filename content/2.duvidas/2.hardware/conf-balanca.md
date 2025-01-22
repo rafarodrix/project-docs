@@ -3,36 +3,9 @@ title: Configurações Balanças
 description: Instalação da Balança no MGV6 e Configuração no Wi-Fi
 ---
 
-::steps
-### Instalação do MGV6
+## Configuração na Balança
 
-**Acesse o link para download do Software de balança MGV6**.
-::button-link{right-icon="lucide:arrow-up-right" to="https://trilinksoftware.com.br/download/mgv6-toledo.zip"}
-  Download MGV6
-::
-- Extraia os arquivos do **Winrar**.
-- Execute o arquivo `InstalarMGV6.exe`.
-- Siga as instruções de instalação:
-  - Selecione a linguagem como **"Portuguese (Brazil)"**.
-  - Avançe até finalizar a instalação.
-
-### Configuração Inicial do MGV6
-
-#### Criação de Nova Base de Dados
-- Após a instalação, abra o **MGV6**.
-- Selecione a opção para **criar uma nova configuração**.
-- Configure a base de dados local no servidor do próprio MGV6, selecionando **"Criar nova base de dados"**.
-
-#### Configuração de Loja e Balanças
-- Adicione as lojas que utilizarão as balanças.
-- Cadastre as balanças no sistema, especificando:
-  - Modelo
-  - Departamento
-  - Tipo de comunicação (**Wi-Fi** neste caso)
-
-### Configuração de Rede na Balança
-
-#### Configuração rede Wi-Fi
+### Configuração rede Wi-Fi
 
 ::steps{level=5}
 
@@ -73,7 +46,7 @@ description: Instalação da Balança no MGV6 e Configuração no Wi-Fi
 
 ::
 
-#### Configuração da Rede Web
+### Configuração da Rede Web
 
 ::steps{level=5}
 
@@ -103,9 +76,38 @@ Navegue até **"C20 - Comunicação de rede"** e pressione **Entra**.
    - Salve as configurações e saia do modo de programação.
 ::
 
+## Instalação do MGV6
+
+::steps
+
+### Download e instalação
+
+**Acesse o link para download do Software de balança MGV6**.
+::button-link{right-icon="lucide:arrow-up-right" to="https://trilinksoftware.com.br/download/mgv6-toledo.zip"}
+  Download MGV6
+::
+- Extraia os arquivos do **Winrar**.
+- Execute o arquivo `InstalarMGV6.exe`.
+- Siga as instruções de instalação:
+  - Selecione a linguagem como **"Portuguese (Brazil)"**.
+  - Avançe até finalizar a instalação.
+
+### Configuração Inicial do MGV6
+
+#### Criação de Nova Base de Dados
+- Após a instalação, abra o **MGV6**.
+- Selecione a opção para **criar uma nova configuração**.
+- Configure a base de dados local no servidor do próprio MGV6, selecionando **"Criar nova base de dados"**.
+
+#### Configuração de Loja e Balanças
+- Adicione as lojas que utilizarão as balanças.
+- Cadastre as balanças no sistema, especificando:
+  - Modelo
+  - Departamento
+  - Tipo de comunicação (**Wi-Fi** neste caso)
+
 ### Configuração de IP no MGV6
 
-#### Configuração de IP no Computador com MGV6
 No **MGV6**, vá até a configuração de loja e insira o **IP do computador** onde o MGV6 está instalado. Este IP deve ser o mesmo configurado na balança como destino para comunicação.
 
 ### Verificação e Teste
