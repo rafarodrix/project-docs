@@ -16,7 +16,7 @@ description: Instalação da Balança no MGV6 e Configuração no Wi-Fi
   - Selecione a linguagem como **"Portuguese (Brazil)"**.
   - Avançe até finalizar a instalação.
 
-### Passo 2: Configuração Inicial do MGV6
+### Configuração Inicial do MGV6
 
 #### Criação de Nova Base de Dados
 - Após a instalação, abra o **MGV6**.
@@ -30,16 +30,27 @@ description: Instalação da Balança no MGV6 e Configuração no Wi-Fi
   - Departamento
   - Tipo de comunicação (**Wi-Fi** neste caso)
 
-### Passo 3: Configuração do Wi-Fi na Balança
+### Configuração de Rede na Balança
 
-#### Acesso ao Modo Programa da Balança
+#### Configuração rede Wi-Fi
+
+::steps{level=5}
+
+##### Acesso ao Modo Programa da Balança
 - Ligue a balança.
 - Pressione a tecla **"Função"**, depois **"Modo Programa"**. 
 - Digite a senha (geralmente **1234**) para entrar no modo de configuração.
 
-#### Configuração da Rede Wi-Fi
+##### Acesse o Modo Programa
+   - Digite a **senha técnica** e pressionando a tecla **Entra**.
+
+##### Ajustar Parâmetros
+   - Navegue até a opção **Ajustar Parametros** usando a tecla **Liga** e pressione **Entra**.
 
 ##### Configuração de Rede
+  - Navegue até **"C20 - Comunicação de rede"** e pressione **Entra**.
+
+##### Definir Configurações
 - Navegue até **"Ajustar parâmetros"** e vá até o item **"C20 - Comunicação de rede"**.
 - Defina o tipo de comunicação como **Wi-Fi**.
 - Configure a rede Wi-Fi:
@@ -54,22 +65,58 @@ description: Instalação da Balança no MGV6 e Configuração no Wi-Fi
   - **Gateway Padrão**: Endereço IP do roteador, como `192.168.1.1`.
   - **Porta**: Utilize a porta padrão ou uma configurada especificamente para a balança.
 
-- Salve as configurações e saia do modo de programação.
+##### Salvar Configurações
+   - Navegue até **"C99 - Defalt"** pressionando a tecla **Entra**.
 
-### Passo 4: Configuração de IP no MGV6
+##### Finalizar:
+   - Salve as configurações e saia do modo de programação.
+
+::
+
+#### Configuração da Rede Web
+
+::steps{level=5}
+
+##### Acesse o Modo Programa
+Digite a **senha técnica** e pressionando a tecla **Entra**.
+
+##### Ajustar Parâmetros
+Navegue até a opção **Ajustar Parametros** usando a tecla **Liga** e pressione **Entra**.
+
+##### Configuração de Rede
+Navegue até **"C20 - Comunicação de rede"** e pressione **Entra**.
+
+##### Definir Configurações
+   - **Endereço da Balança:** `01`
+   - **Interface:** `WEB`
+   - **IP:** Defina um IP livre na rede do cliente, como **192.168.1.100**.
+   - **M (Máscara de Sub-rede):** `255.255.255.0` (para redes domésticas)
+   - **G (Gateway Padrão):** Endereço IP do roteador, como `192.168.1.1`.
+   - **CHAVE (Porta):** Utilize a porta padrão ou uma configurada especificamente para a balança.
+   - **IG:** IP do Servidor que envia a cara para a balança.
+   - **Rede Ativa:** `WEB`
+
+##### Salvar Configurações
+   - Navegue até **"C99 - Defalt"** pressionando a tecla **Entra**.
+
+##### Finalizar:
+   - Salve as configurações e saia do modo de programação.
+::
+
+### Configuração de IP no MGV6
 
 #### Configuração de IP no Computador com MGV6
-- No **MGV6**, vá até a configuração de loja e insira o **IP do computador** onde o MGV6 está instalado. Este IP deve ser o mesmo configurado na balança como destino para comunicação.
+No **MGV6**, vá até a configuração de loja e insira o **IP do computador** onde o MGV6 está instalado. Este IP deve ser o mesmo configurado na balança como destino para comunicação.
 
-### Passo 5: Verificação e Teste
+### Verificação e Teste
 
 #### Verificação da Configuração
-- Dentro do **MGV6**, verifique se a balança está comunicando corretamente ao clicar em **"Verificar balança"**.
+Dentro do **MGV6**, verifique se a balança está comunicando corretamente ao clicar em **"Verificar balança"**.
 
 #### Teste de Funcionalidade
-- Realize um teste de pesagem e verifique se a etiqueta é impressa com as informações corretas e se a balança se comunica via Wi-Fi com o MGV6.
+Realize um teste de pesagem e verifique se a etiqueta é impressa com as informações corretas e se a balança se comunica via Wi-Fi com o MGV6.
 
-### Passo 6: Finalização
+### Finalização
 
 - Salve todas as configurações feitas tanto na balança quanto no MGV6.
 - Certifique-se de que todos os cadastros de produtos, etiquetas e outras configurações necessárias estejam corretamente inseridos no sistema.
@@ -77,6 +124,19 @@ description: Instalação da Balança no MGV6 e Configuração no Wi-Fi
 Este guia deve ajudar a configurar sua balança Toledo com o MGV6 usando uma conexão Wi-Fi. Se surgirem problemas, consulte a documentação específica do modelo de balança ou o suporte técnico da Toledo.
 
 ::
+
+### Perguntas frequentes
+
+::collapsible
+#title
+Qual a senha técnica da balança Toledo?
+
+#content
+- A senha é o dia de hoje somado com 20 e o mês somado com 11.
+
+**Exemplo:** Digamos que hoje seja dia "3", somado com "20" fica: 23 ; Estamos no mês "9" (setembro) com "11" fica "20", assim a senha é: 2320
+::
+
 
 ::card
 
