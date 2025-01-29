@@ -3,18 +3,71 @@ title: Venda Particular
 description: Cadastro de Participante
 ---
 
-A liberação de limite de crédito é uma ferramenta essencial que permite a minimização do risco de crédito ao estabelecer um limite específico para os clientes. Essa funcionalidade é particularmente útil para empresas que oferecem crédito a seus clientes e desejam garantir um controle mais eficiente sobre os valores em aberto.
+### Liberação de Limite de Crédito
 
-**Como funciona?**
+A liberação de limite de crédito é uma ferramenta que minimiza o risco ao definir um valor de compra específico para cada cliente. Esta funcionalidade é crucial para empresas que concedem crédito, garantindo um controle eficiente sobre os valores pendentes.
 
-Ao utilizar a verificação do limite de crédito, você pode definir um valor máximo que o cliente pode acumular em pendências de pagamento. Isso ajuda a evitar que clientes ultrapassem sua capacidade de pagamento, reduzindo o risco de inadimplência.
+#### Como funciona?
 
-A verificação considera o saldo atual do cliente e examina os documentos em aberto, como pedidos de venda, ordens de serviço, notas fiscais. Se o limite de crédito for ultrapassado, o sistema emitirá um alerta para que o usuário possa tomar as medidas necessárias.
+Ao utilizar a verificação do limite de crédito, você define um valor máximo que o cliente pode acumular em pendências de pagamento. Isso evita que os clientes excedam sua capacidade de pagamento, reduzindo o risco de inadimplência.
 
-**Configurações de limite de crédito**
-Para utilizar a verificação de limite de crédito, é necessário configurar algumas definições no sistema.
+> Se o limite de crédito for ultrapassado, o sistema solicitará o usuário e a senha para liberação.
 
-Para isso, acesse o menu Cadastros > Participante > Participante e selecione o cadastro do cliente que deseja configurar, clique na aba Venda Particular e preencha os campos conforme a necessidade.
+#### Configurações de Limite de Crédito
 
-![Tela cadastro de participante pessoa fisica](/img/documentacao/participante/particular/001.gif)
+Para configurar a verificação de limite de crédito, siga estes passos:
 
+1. **Acesse o menu:** `Cadastros > Participante > Participante`.
+2. **Selecione o cliente:** Escolha o cadastro do cliente que deseja configurar.
+3. **Abra a aba:** Clique na aba **Venda Particular**.
+
+![Tela cadastro de participante pessoa física](/img/documentacao/participante/particular/001.gif)
+
+4. **Incluir novo registro:** Clique no botão **Incluir**.
+5. **Adicionar a empresa:** Selecione ou adicione a empresa associada ao cliente.
+6. **Definir limite de crédito:** Insira o valor do limite de crédito desejado.
+7. **Salvar as alterações:** Primeiro, salve a inclusão do limite de crédito e, em seguida, salve o cadastro do participante.
+
+![Tela cadastro de participante pessoa física após configuração](/img/documentacao/participante/particular/002.gif)
+
+
+::alert{type="note"}
+:badge[Exemplo]{type="info"}
+No exemplo acima, foi estabelecido um limite de crédito de **R$1.000,00** para o cliente. Isso significa que ele pode acumular compras ou dívidas até esse valor. À medida que o cliente faz pagamentos ou quita suas obrigações, o limite disponível é restaurado, permitindo novas transações dentro desse valor.
+::
+
+#### Definição dos Campos
+
+- **Dias de Vencimento:** Configura uma data de vencimento fixa para todos os títulos ou documentos financeiros gerados no sistema. Por exemplo, definir o vencimento para o dia 7 faz com que cada novo título criado tenha essa data de vencimento. Isso padroniza os prazos de pagamento, facilitando a organização financeira.
+  
+  **Informação:** Caso o campo fique como "0", as datas de vencimento seguem o definido no plano de pagamento.
+
+- **Limite:** Define um limite de crédito para o cliente.
+- **Limite Cheque:** Define um limite de crédito específico para compras com cheque.
+- **Liberar Crédito de Cheque para Venda?** (Sim/Não)
+- **Incluir Carência na Cobrança de Juros?** (Sim/Não)
+- **Taxa de Multa:** Define uma porcentagem de multa para o cliente.
+- **Taxa de Juros:** Define uma porcentagem de juros para o cliente.
+- **Carência de Juros:** Define um período de carência para a cobrança de juros.
+- **Desconto:** Define uma porcentagem de desconto para o cliente.
+- **Empresa:** Indica a empresa à qual o cliente pertence.
+
+::alert{type="warning"}
+:badge[Aviso]{type="warning" } 
+ As configurações são geralmente realizadas por um administrador. Se você não tiver a autorização necessária, entre em contato com seu administrador..
+::
+
+
+::card
+
+#title
+:icon{name="fluent:person-support-24-filled"} Precisa de ajuda e não encontrou aqui?
+#description
+Entre em contato, estamos disponíveis para ajudar você com qualquer dúvida ou problema que possa ter.
+
+---
+
+- :icon{name="akar-icons-whatsapp-fill"} **WhatsApp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
+- :icon{name="teenyicons:envelope-solid"} **E-mail:** [equipe@trilinksoftware.com.br](mailto:equipe@trilinksoftware.com.br)
+
+::
