@@ -1,49 +1,55 @@
 ---
-title: Download XML
-description: Caso você possua apenas a chave de acesso ou a DANFE de uma NF-e, é possível baixar o XML através do portal da SEFAZ utilizando o certificado digital de sua empresa.
-breadcrumb: false # carrega caminho de navegção barra superior
+title: Emissão de NF-e a partir de Cupons
+description: Guia passo a passo para importar cupons fiscais e gerar notas fiscais eletrônicas (NF-e) no sistema.
+breadcrumb: false
+draft: true
 ---
 
 ::steps
-### Obter a Chave de Acesso
 
-A chave de acesso está localizada no topo da DANFE (Documento Auxiliar da Nota Fiscal Eletrônica), abaixo do código de barras.
+### Acessar o Menu de Importação de Cupons
 
-<img src="/img/duvidas/movimento/chave_nfe.png" alt="Imagem mostrando a localização da chave de acesso na DANFE" style="width: 100%; max-width: 900px;">
+1. **Acesse no menu:** **Movimento > Documento > Lançamento de Documentos.**
 
-::alert{icon="lucide:info"}
-  Certifique-se de copiar todos os 44 caracteres da chave de acesso (você também pode utilizar um leitor de código de barras para ler a chave).
-::
+   Menu de Importação de Cupom
 
-### Download XML
+### Importar Cupons
 
-Para realizar o download do XML da Nota Fiscal eletrônica NF-e no [Portal Nacional da NFe](https://www.nfe.fazenda.gov.br/portal/principal.aspx), siga os passos abaixo:
+2. **Com a tela de lançamento de documentos aberta**, clique no botão **Importar** e selecione **Importar Cupom**.
 
-1 - Insira a chave de acesso de 44 caracteres.
+   Botão Importar Cupom
 
-2 - Clique em `Sou Humano` e em seguida em `Continuar`
+### Selecionar o Tipo de Documento
 
-3 - Na próxima tela clique em `Download do Documento`
+3. **Na tela de lançamento de documentos**, selecione **Lançamento de Documentos (Ativos, Aberto)**.
 
-<img src="/img/duvidas/movimento/xml_nfe.gif" alt="Chave NFe" style="width: 100%; max-width: 900px;">
+   Seleção do Tipo de Documento
 
-::alert{type="warning" icon="lucide:triangle-alert"}
-  Após clicar em `Download do documento` será necessário selecionar o certificado digital de sua empresa para obter o arquivo..
-::
+4. **Na tela de seleção de importação**, escolha **Cupom** e clique em **Importar Cupom**.
 
-### Importação do XML de Nota Fiscal de Entrada
+   Seleção de Importação de Cupom
 
-1 - Acesse o Menu **Movimento > Lançamento de Documentos**.
+### Filtrar e Selecionar Vendas
 
-2 -  Clique na opção **Importar > XML > Importar XML** ou você pode usar o atalho: :shortcut{value="meta"} + :shortcut{value="X"}
+5. **Selecione o período** que deseja buscar as vendas e **coloque o participante** para quem você deseja emitir a nota.
 
-3 - Uma nova janela será aberta. Clique em **XML** e depois em **Importar usando arquivo XML**.
+   - **Atualize** para carregar todas as vendas efetuadas para o participante selecionado.
 
-4 - Ao clicar em '**Importar usando arquivo XML**', navegue até o local onde você salvou o arquivo XML no seu computador e selecione-o.
+   Filtro de Vendas
 
-5 - Após a seleção a NF-e já vai aparecer disponivel para efetuar a entrada.
+6. **Selecione todas as vendas** que deseja gerar a nota fiscal. Clique com o botão direito do mouse e escolha **"Adicionar Cupons Selecionados"**. Confirme para efetuar todas as importações.
 
-<img src="/img/duvidas/movimento/importar_xml.gif" alt="Imagem mostrando a iportação do xml no syspro ERP" style="width: 100%; max-width: 900px;">
+   Adicionar Cupons Selecionados
+
+### Verificação e Salvamento da Nota Fiscal
+
+7. **Será aberta a tela com a nota pronta para conferência**. Após a conferência, **salve** no local indicado pela seta em vermelho.
+
+   Conferencia da Nota Fiscal
+
+8. **Selecione a nota** e **efetue o processamento** da mesma.
+
+   Processamento da Nota Fiscal
 
 ::
 
@@ -56,7 +62,7 @@ Entre em contato, estamos disponíveis para ajudar você com qualquer dúvida ou
 
 ---
 
-- :icon{name="akar-icons-whatsapp-fill"} **whatsapp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
+- :icon{name="akar-icons-whatsapp-fill"} **WhatsApp:** [(34) 99771-3731](https://wa.me/trilinksoftware)
 - :icon{name="teenyicons:envelope-solid"} **E-mail:** [equipe@trilinksoftware.com.br](mailto:equipe@trilinksoftware.com.br)
 
 ::
