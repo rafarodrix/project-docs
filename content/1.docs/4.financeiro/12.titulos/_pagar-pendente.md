@@ -1,6 +1,7 @@
 ---
 title: "Pagar Pendente"
 description: "Guia passo a passo para gerenciar títulos a pagar no sistema financeiro."
+breadcrumb: false
 ---
 
 Bem-vindo ao manual do submódulo "Pagar Pendente"! Este guia foi criado para ajudar você a organizar e gerenciar as contas a pagar da sua empresa, como faturas de fornecedores, impostos ou outras despesas, de forma simples e eficiente. Aqui, você encontrará instruções claras para usar o sistema sem complicações.
