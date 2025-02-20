@@ -2,7 +2,7 @@
 title: Emissão de NF-e a partir de Cupons
 description: Guia passo a passo para importar cupons fiscais e gerar notas fiscais eletrônicas (NF-e) no sistema.
 breadcrumb: false
-draft: true
+draft: false
 ---
 
 ::steps

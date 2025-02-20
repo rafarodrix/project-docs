@@ -1,11 +1,9 @@
 ---
 title: Financeiro
 description: Documentação do módulo Financeiro.
-navigation: false
+navigation: true
 navigation.redirect: /docs/financeiro/_financeiro
 ---
-
-## Módulos Financeiros
 
 ::card-group
   ::card
@@ -137,7 +135,7 @@ navigation.redirect: /docs/financeiro/_financeiro
   ::card
   ---
   title: Contas Bancárias
-  to: /docs/financeiro/contas-bancarias
+  to: /docs/financeiro/contas-bancarias/contas-bancarias
   target: _blank
   ---
   Gerencie as contas bancárias utilizadas pela empresa.
@@ -218,7 +216,7 @@ navigation.redirect: /docs/financeiro/_financeiro
   ::card
   ---
   title: Títulos
-  to: /docs/financeiro/titulos/titulos
+  to: /docs/financeiro/titulos
   target: _blank
   ---
   Gerencie os títulos financeiros da empresa.
